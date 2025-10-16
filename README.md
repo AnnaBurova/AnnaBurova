@@ -1,4 +1,4 @@
-# 👩‍💻 Anna Burova | Full-Stack Web Developer from Russia 🇷🇺
+# 👩‍💻 Anna Burova <br> Full-Stack Web Developer from Russia 🇷🇺
 
 *Focused on Python, SQL, APIs, Flask, Design and data-driven solutions.*
 
