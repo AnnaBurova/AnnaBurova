@@ -1,5 +1,7 @@
 # 👩‍💻 Anna Burova | Full-Stack Web Developer from Russia 🇷🇺
 
+*Focused on Python, APIs, Design and data-driven solutions.*
+
 🌍 In Languages:
 | 💂 | 🪆 | 🥨 |---|
 |---|---|---|---|
@@ -24,9 +26,9 @@ I am a fast learner and genuinely enjoy acquiring new skills and technologies. W
 #### Key Strengths:
 
 - 🎯 **Perseverance & Dedication**: Highly focused and can stay with a problem until it's solved.
-- 🧠 **Quick Learner**: Love mastering new technologies and expanding my skill set.
-- 🔍 **Problem-Solver**: Believe that "impossible" is just a matter of time.
-- 🎨 **Quality-Focused**: Committed to delivering well-thought-out, high-quality products.
+- 🔍 **Problem-Solving Mindset**: Turning complex requirements into clean solutions.
+- 🎨 **Quality & Maintainability:** Writing code that lasts.
+- 🧠 **Continuous Growth**: Expanding expertise in Python and data analysis.
 
 ---
 
@@ -49,7 +51,7 @@ I am a fast learner and genuinely enjoy acquiring new skills and technologies. W
 - **Version Control**: Git, GitHub, GitLab, Bitbucket
 - **IDEs & Editors**: VS Code, IntelliJ IDEA, PHPStorm, Sublime Text 3
 - **Project Management**: Jira, Asana, Trello
-- **APIs & Data Integration**: Experienced in consuming, parsing, and structuring data from APIs
+- **APIs & Data Integration**: Experienced in consuming, parsing, and structuring data from APIs  
 (e.g., Guild Wars 2, Legacy VK API).
 
 ---
@@ -57,6 +59,7 @@ I am a fast learner and genuinely enjoy acquiring new skills and technologies. W
 ### 💼 Career Highlights
 
 My professional journey has consistently focused on delivering high-impact web solutions across various industries.
+
 Key aspects of my experience include:
 
 - **End-to-End Development:** From initial concept and architecture to deployment and maintenance.
@@ -70,14 +73,16 @@ Key aspects of my experience include:
 
 I am currently developing a personal project to create a user-friendly web interface for managing and analyzing data from the Guild Wars 2 API. This initiative allows me to deepen my skills in Python, data manipulation, and building intuitive front-ends for data visualization.
 
-While my professional projects reside in private repositories to maintain quality and focus, I am dedicated to building robust, production-ready solutions. For a detailed look at my architecture, problem-solving approach, and code quality, I am happy to demonstrate my work and discuss its implementation in an interview.
+While my professional projects reside in private repositories to maintain quality and focus, I am dedicated to building robust, production-ready solutions. For a detailed look at my architecture, problem-solving approach, and code quality, I am open to providing code samples or technical overviews upon request and discuss its implementation in an interview.
 
 ### 💼 Professional Experience Summary
 
-<details>
-  <summary>🔍 Big Table under spoiler 🔍</summary>
+#### 🔍 Full list under spoiler 🔍
 
-<br/>
+<details>
+  <summary>🧐 Open full experience table 🧐</summary>
+
+  <br/>
 
   | Period | Role | Company | Key Responsibilities & Achievements |
   | :--- | :--- | :--- | :--- |
@@ -105,12 +110,12 @@ While my professional projects reside in private repositories to maintain qualit
 
 ### 📞 Let's Connect
 
-I am actively seeking new opportunities in **Moscow (Russia)** or for **fully remote** positions.
-I am open to both full-time employment and freelance project-based work.
+I am actively seeking new opportunities in **Moscow (Russia)** or for **fully remote** positions  
+and open to both full-time employment and freelance project-based work.
 
-I prefer to start our communication via email or LinkedIn or HH to ensure we have a clear understanding before scheduling a call.
+I prefer to start our communication via Email or LinkedIn or HH to ensure we have a clear understanding before scheduling a call.
 
-- 📧 **Email:** burova.anna+work@gmail.com
-- 💼 **LinkedIn:** [Your LinkedIn profile URL]
+- 📧 **Email:** [burova.anna+work@gmail.com](mailto:burova.anna+work@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/annaburova](#)
 
 Thank you for visiting my profile!
