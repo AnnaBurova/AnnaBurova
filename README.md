@@ -1,6 +1,6 @@
 # 👩‍💻 Anna Burova | Full-Stack Web Developer from Russia 🇷🇺
 
-*Focused on Python, APIs, Design and data-driven solutions.*
+*Focused on Python, SQL, APIs, Flask, Design and data-driven solutions.*
 
 🌍 In Languages:
 | 💂 | 🪆 | 🥨 |---|
@@ -8,6 +8,8 @@
 | [English](README.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | <img src="https://visitor-badge.laobi.icu/badge?page_id=AnnaBurova.AnnaBurova&" /> |
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annaburova&show_icons=true&locale=en&layout=compact" />
+
+---
 
 # 🦎 Hi there 👋
 
@@ -27,7 +29,7 @@ I am a fast learner and genuinely enjoy acquiring new skills and technologies. W
 
 - 🎯 **Perseverance & Dedication**: Highly focused and can stay with a problem until it's solved.
 - 🔍 **Problem-Solving Mindset**: Turning complex requirements into clean solutions.
-- 🎨 **Quality & Maintainability:** Writing code that lasts.
+- 🎨 **Quality & Maintainability**: Writing code that lasts.
 - 🧠 **Continuous Growth**: Expanding expertise in Python and data analysis.
 
 ---
@@ -62,10 +64,10 @@ My professional journey has consistently focused on delivering high-impact web s
 
 Key aspects of my experience include:
 
-- **End-to-End Development:** From initial concept and architecture to deployment and maintenance.
-- **Full-Stack Expertise:** Building robust, responsive applications using a modern tech stack (PHP, Python, JavaScript, SQL).
-- **Data-Driven Projects:** Leveraging APIs and databases to build dynamic applications, such as my current GW2 API analysis project.
-- **Client Collaboration:** Providing clear technical solutions and direct support to ensure project success and user satisfaction.
+- **End-to-End Development**: From initial concept and architecture to deployment and maintenance.
+- **Full-Stack Expertise**: Building robust, responsive applications using a modern tech stack (PHP, Python, JavaScript, SQL).
+- **Data-Driven Projects**: Leveraging APIs and databases to build dynamic applications, such as my current GW2 API analysis project.
+- **Client Collaboration**: Providing clear technical solutions and direct support to ensure project success and user satisfaction.
 
 ---
 
@@ -73,7 +75,9 @@ Key aspects of my experience include:
 
 I am currently developing a personal project to create a user-friendly web interface for managing and analyzing data from the Guild Wars 2 API. This initiative allows me to deepen my skills in Python, data manipulation, and building intuitive front-ends for data visualization.
 
-While my professional projects reside in private repositories to maintain quality and focus, I am dedicated to building robust, production-ready solutions. For a detailed look at my architecture, problem-solving approach, and code quality, I am open to providing code samples or technical overviews upon request and discuss its implementation in an interview.
+My professional projects reside in private repositories to maintain quality and focus. For a detailed look at my architecture, problem-solving approach, and code quality, I am open to providing code samples or technical overviews upon request and discuss its implementation in an interview.
+
+---
 
 ### 💼 Professional Experience Summary
 
@@ -102,9 +106,9 @@ While my professional projects reside in private repositories to maintain qualit
 
 ### 🌐 Language Proficiency
 
-- **Russian:** Native
-- **German:** Professional Working Proficiency (C1)
-- **English:** Professional Working Proficiency (C1)
+- **Russian**: Native
+- **German**: Professional Working Proficiency (C1)
+- **English**: Professional Working Proficiency (C1)
 
 ---
 
@@ -113,9 +117,11 @@ While my professional projects reside in private repositories to maintain qualit
 I am actively seeking new opportunities in **Moscow (Russia)** or for **fully remote** positions  
 and open to both full-time employment and freelance project-based work.
 
-I prefer to start our communication via Email or LinkedIn or HH to ensure we have a clear understanding before scheduling a call.
+I prefer to start our communication via Email, LinkedIn or HeadHunter to ensure we have a clear understanding before scheduling a call.
 
-- 📧 **Email:** [burova.anna+work@gmail.com](mailto:burova.anna+work@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/annaburova](#)
+- 📧 **Email**: [burova.anna+work@gmail.com](mailto:burova.anna+work@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/annaburova](#)
 
 Thank you for visiting my profile!
+
+**Stack**: HTML5, CSS3, JavaScript (ES6+), Python, Flask, Jinja2, SQLite, PHP, WordPress, MySQL, Angular, Git, REST API, JSON, Data Analysis
