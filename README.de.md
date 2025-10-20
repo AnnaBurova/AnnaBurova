@@ -117,10 +117,9 @@ Meine professionellen Projekte befinden sich in privaten Repositories, um Qualit
 Ich suche aktiv nach neuen Möglichkeiten in **Moskau (Russland)** oder für **vollständig Remote** Positionen
 und bin für Vollzeitanstellung und freiberufliche projektbasierte Arbeit offen.
 
-Ich bevorzuge den Erstkontakt per E-Mail, LinkedIn oder HeadHunter, um sicherzustellen, dass wir ein klares Verständnis haben, bevor wir ein Anruftermin vereinbaren.
+Ich bevorzuge den Erstkontakt per E-Mail, um sicherzustellen, dass wir ein klares Verständnis haben, bevor wir ein Anruftermin vereinbaren.
 
 - 📧 **E-Mail**: [burova.anna+work@gmail.com](mailto:burova.anna+work@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/annaburova](#)
 
 Vielen Dank für Ihren Besuch auf meinem Profil!
 

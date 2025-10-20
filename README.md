@@ -117,10 +117,9 @@ My professional projects reside in private repositories to maintain quality and 
 I am actively seeking new opportunities in **Moscow (Russia)** or for **fully remote** positions  
 and open to both full-time employment and freelance project-based work.
 
-I prefer to start our communication via Email, LinkedIn or HeadHunter to ensure we have a clear understanding before scheduling a call.
+I prefer to start our communication via Email, to ensure we have a clear understanding before scheduling a call.
 
 - 📧 **Email**: [burova.anna+work@gmail.com](mailto:burova.anna+work@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/annaburova](#)
 
 Thank you for visiting my profile!
 
