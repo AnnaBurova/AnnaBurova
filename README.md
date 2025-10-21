@@ -1,6 +1,6 @@
 # 👩‍💻 Anna Burova <br> Full-Stack Web Developer from Russia 🇷🇺
 
-*Focused on Python, SQL, APIs, Flask, Design and data-driven solutions.*
+*Focused on Python, SQL, APIs, Flask, design, and data-driven solutions.*
 
 🌍 In Languages:
 | 💂 | 🪆 | 🥨 |---|
@@ -13,7 +13,7 @@
 
 # 🦎 Hi there 👋
 
-Welcome to my GitHub profile! I am an experienced web developer specializing in scalable web solutions. I focus on full-stack development and am currently expanding my skills in Python and building tools for data analysis and visualization.
+Welcome to my GitHub profile! I’m an experienced web developer focused on scalable web solutions. I work across the full stack, deepen my Python skills, and build tools for data analysis and visualization.
 
 ---
 
@@ -21,67 +21,67 @@ Welcome to my GitHub profile! I am an experienced web developer specializing in 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
-I am a developer who loves diving deep into challenges and finding effective solutions. I believe that any problem is solvable given enough time and the right approach, which is why I take a methodical, quality-focused approach to coding. I strive to write clean, maintainable code by anticipating future problems and architectural needs.
+I like diving deep into challenges and finding effective solutions. I believe any problem can be solved with time and the right approach, so I value a methodical, quality-oriented mindset. I aim for clean, maintainable code and anticipate future needs and architectural considerations.
 
-I am a fast learner and genuinely enjoy acquiring new skills and technologies. While I can work independently, I also have a talent for breaking down complex technical concepts and explaining them to others in a clear and understandable way.
+I learn quickly and genuinely enjoy picking up new skills and technologies. I work well independently and can explain complex technical concepts clearly to teammates and clients.
 
-#### Key Strengths:
+#### Key Strengths
 
-- 🎯 **Perseverance & Dedication**: Highly focused and can stay with a problem until it's solved.
-- 🔍 **Problem-Solving Mindset**: Turning complex requirements into clean solutions.
-- 🎨 **Quality & Maintainability**: Writing code that lasts.
-- 🧠 **Continuous Growth**: Expanding expertise in Python and data analysis.
+- 🎯 **Perseverance & dedication**: stay focused until the problem is solved.
+- 🔍 **Problem-solving mindset**: turn complex requirements into clear solutions.
+- 🎨 **Quality & maintainability**: write code that lasts.
+- 🧠 **Continuous growth**: expand expertise in Python and data analysis.
 
 ---
 
 ### 🔧 Skills
 
-#### Frontend:
+#### Frontend
 
 - **Languages**: HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks**: Angular, Bootstrap
-- **Tools & Styling**: SASS/SCSS, LESS, Responsive Web Design
+- **Frameworks/Libraries**: Angular, Bootstrap
+- **Tools & styling**: SASS/SCSS, LESS, responsive web design
 
-#### Backend:
+#### Backend
 
 - **Languages**: PHP (incl. OOP), Python
 - **Databases**: MySQL, SQLite
-- **Templating**: Jinja2, Flask
+- **Frameworks**: Flask
+- **Templating**: Jinja2
 
-#### Tools & Others:
+#### Tools & Others
 
-- **Version Control**: Git, GitHub, GitLab, Bitbucket
-- **IDEs & Editors**: VS Code, IntelliJ IDEA, PHPStorm, Sublime Text 3
-- **Project Management**: Jira, Asana, Trello
-- **APIs & Data Integration**: Experienced in consuming, parsing, and structuring data from APIs  
-(e.g., Guild Wars 2, Legacy VK API).
+- **Version control**: Git, GitHub, GitLab, Bitbucket
+- **IDEs & editors**: VS Code, IntelliJ IDEA, PHPStorm, Sublime Text 3
+- **Project management**: Jira, Asana, Trello
+- **APIs & data integration**: consuming, parsing, and structuring data from APIs  
+(e.g., Guild Wars 2, Legacy VK API)
 
 ---
 
 ### 💼 Career Highlights
 
-My professional journey has consistently focused on delivering high-impact web solutions across various industries.
+My work focuses on delivering impactful web solutions across industries.
 
-Key aspects of my experience include:
-
-- **End-to-End Development**: From initial concept and architecture to deployment and maintenance.
-- **Full-Stack Expertise**: Building robust, responsive applications using a modern tech stack (PHP, Python, JavaScript, SQL).
-- **Data-Driven Projects**: Leveraging APIs and databases to build dynamic applications, such as my current GW2 API analysis project.
-- **Client Collaboration**: Providing clear technical solutions and direct support to ensure project success and user satisfaction.
+Key aspects:
+- **End-to-end development**: from concept and architecture to deployment and maintenance.
+- **Full-stack expertise**: building robust, responsive apps (PHP, Python, JavaScript, SQL).
+- **Data-driven projects**: leveraging APIs and databases (e.g., GW2 API analysis project).
+- **Client collaboration**: clear technical solutions and direct support for project success.
 
 ---
 
 ### 📂 Portfolio & Projects
 
-I am currently developing a personal project to create a user-friendly web interface for managing and analyzing data from the Guild Wars 2 API. This initiative allows me to deepen my skills in Python, data manipulation, and building intuitive front-ends for data visualization.
+I’m developing a user-friendly web interface for managing and analyzing data from the Guild Wars 2 API. This helps me deepen skills in Python, data processing, and building intuitive front-ends for visualization.
 
-My professional projects reside in private repositories to maintain quality and focus. For a detailed look at my architecture, problem-solving approach, and code quality, I am open to providing code samples or technical overviews upon request and discuss its implementation in an interview.
+Professional projects are in private repositories to maintain quality and focus. I’m happy to provide code samples or technical overviews on request and discuss architecture and implementation.
 
 ---
 
-### 💼 Professional Experience Summary
+### 💼 Professional Experience
 
-#### 🔍 Full list under spoiler 🔍
+#### 🔍 Full list under spoiler 🔍 (expand)
 
 <details>
   <summary>🧐 Open full experience table 🧐</summary>
@@ -90,16 +90,16 @@ My professional projects reside in private repositories to maintain quality and 
 
   | Period | Role | Company | Key Responsibilities & Achievements |
   | :--- | :--- | :--- | :--- |
-  | 06/2023 – Present | **Freelance Web Developer** | Self-Employed | - Development and maintenance of websites<br>- Creation of personal projects to expand skills |
-  | 03/2022 – 05/2023 | **Web Development Student** | Personal Initiative | - Intensive training in full-stack web development<br>- Hands-on experience with various technologies and frameworks |
-  | 03/2022 – 05/2023 | **Freelance Web Developer** | **Various Clients** | - Provided web development services for small businesses<br>- Focused on custom solutions and client needs |
-  | 11/2019 – 02/2022 | **Freelance Web Developer** | **MISA International School of Arts** | - Developed and maintained web solutions for the institution<br>- Collaborated with the team to create an online presence |
-  | 09/2018 – 10/2019 | **Software Developer** | MAS Management & Software GmbH | - Software engineering, design, and implementation<br>- Creation of architectures and data models for clients |
-  | 08/2016 – 04/2018 | **Frontend Developer** | CHECK24 Vergleichsportal GmbH | - Implementation of responsive web design<br>- Creation of email templates and functionality testing |
-  | 03/2015 – 07/2016 | **Frontend & Backend Developer** | DePauli AG | - Frontend: Overhauling website styles and creating product templates<br>- Backend: Developing PHP scripts for static page generation |
-  | 07/2013 – 02/2015 | **Frontend Developer** | Windeln.de GmbH | - Testing websites with Selenium<br>- Creation and styling of web pages; customer support |
-  | 09/2012 – 09/2014 | **Web Development Student** | SAE Institute Munich | - Completed a comprehensive diploma program in Web Development<br>- Gained foundational knowledge in front-end and back-end technologies |
-  | 09/2008 – 08/2012 | **IT System Electronics Technician** | Siemens AG | - System Administration: Provided computer support and maintained system infrastructure.<br>- Technical Specialist: Assembly, commissioning, and programming of alarm systems; on-site customer maintenance and repair. |
+  | 06/2023 – present | **Freelance Web Developer** | Self-employed | Development and maintenance of websites;<br> Personal projects to expand skills |
+  | 03/2022 – 05/2023 | **Web Development Student** | Personal initiative | Intensive training in full-stack web development;<br> Hands-on work with various technologies and frameworks |
+  | 03/2022 – 05/2023 | **Freelance Web Developer** | Various clients | Web development for small businesses;<br> Tailored solutions to client needs |
+  | 11/2019 – 02/2022 | **Freelance Web Developer** | MISA International School of Arts | Developed and maintained web solutions;<br> Team collaboration on online presence |
+  | 09/2018 – 10/2019 | **Software Developer** | MAS Management & Software GmbH | Development, design, and implementation;<br> Architectures and data models for clients |
+  | 08/2016 – 04/2018 | **Frontend Developer** | CHECK24 Vergleichsportal GmbH | Responsive design implementation;<br> Email templates and functional testing |
+  | 03/2015 – 07/2016 | **Frontend & Backend Developer** | DePauli AG | Frontend: style overhaul and product templates;<br> Backend: PHP scripts for static page generation |
+  | 07/2013 – 02/2015 | **Frontend Developer** | Windeln.de GmbH | Selenium testing;<br> Page creation and styling;<br> Customer support |
+  | 09/2012 – 09/2014 | **Web Development Student** | SAE Institute Munich | Diploma program in web development;<br> Fundamentals of front-end and back-end technologies |
+  | 09/2008 – 08/2012 | **IT System Electronics Technician** | Siemens AG | System administration: workstation support and infrastructure;<br> Assembly, commissioning, and programming of alarm systems;<br> On-site service |
 </details>
 
 ---
@@ -107,20 +107,20 @@ My professional projects reside in private repositories to maintain quality and 
 ### 🌐 Language Proficiency
 
 - **Russian**: Native
-- **German**: Professional Working Proficiency (C1)
-- **English**: Professional Working Proficiency (C1)
+- **German**: Professional working proficiency (C1)
+- **English**: Professional working proficiency (C1)
 
 ---
 
-### 📞 Let's Connect
+### 📞 Let’s Connect
 
-I am actively seeking new opportunities in **Moscow (Russia)** or for **fully remote** positions  
-and open to both full-time employment and freelance project-based work.
-
-I prefer to start our communication via Email, to ensure we have a clear understanding before scheduling a call.
+I’m actively seeking opportunities in **Moscow (Russia)** or **fully remote**,  
+open to full-time roles and project-based freelance work.
 
 - 📧 **Email**: [burova.anna+work@gmail.com](mailto:burova.anna+work@gmail.com)
 
+I prefer to start via email to ensure clear alignment before a call.
+
 Thank you for visiting my profile!
 
-**Stack**: HTML5, CSS3, JavaScript (ES6+), Python, Flask, Jinja2, SQLite, PHP, WordPress, MySQL, Angular, Git, REST API, JSON, Data Analysis
+**Stack**: HTML5, CSS3, JavaScript (ES6+), Python, Flask, Jinja2, SQLite, PHP, WordPress, MySQL, Angular, Git, REST API, JSON, data analysis
