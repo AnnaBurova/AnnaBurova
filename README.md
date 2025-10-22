@@ -30,7 +30,7 @@ I learn quickly and genuinely enjoy picking up new skills and technologies. I wo
 - 🎯 **Perseverance & dedication**: stay focused until the problem is solved.
 - 🔍 **Problem-solving mindset**: turn complex requirements into clear solutions.
 - 🎨 **Quality & maintainability**: write code that lasts.
-- 🧠 **Continuous growth**: expand expertise in Python and data analysis.
+- 🧠 **Continuous growth**: developing data tools in Python and Flask for analysis and automation.
 
 ---
 
@@ -90,9 +90,8 @@ Professional projects are in private repositories to maintain quality and focus.
 
   | Period | Role | Company | Key Responsibilities & Achievements |
   | :--- | :--- | :--- | :--- |
-  | 06/2023 – present | **Freelance Web Developer** | Self-employed | Development and maintenance of websites;<br> Personal projects to expand skills |
+  | 06/2023 – present | **Independent Developer / Python & Data Projects** | Independent projects and research practice | Development and maintenance of websites;<br> Personal projects to expand skills |
   | 03/2022 – 05/2023 | **Web Development Student** | Personal initiative | Intensive training in full-stack web development;<br> Hands-on work with various technologies and frameworks |
-  | 03/2022 – 05/2023 | **Freelance Web Developer** | Various clients | Web development for small businesses;<br> Tailored solutions to client needs |
   | 11/2019 – 02/2022 | **Freelance Web Developer** | MISA International School of Arts | Developed and maintained web solutions;<br> Team collaboration on online presence |
   | 09/2018 – 10/2019 | **Software Developer** | MAS Management & Software GmbH | Development, design, and implementation;<br> Architectures and data models for clients |
   | 08/2016 – 04/2018 | **Frontend Developer** | CHECK24 Vergleichsportal GmbH | Responsive design implementation;<br> Email templates and functional testing |

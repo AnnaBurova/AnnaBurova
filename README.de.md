@@ -30,7 +30,7 @@ Ich lerne schnell und habe Freude daran, neue Fähigkeiten und Technologien zu e
 - 🎯 **Durchhaltevermögen & Engagement**: Hohe Konzentration und Ausdauer bis zur Lösung.
 - 🔍 **Problemlösungsmentalität**: Komplexe Anforderungen in klare Lösungen überführen.
 - 🎨 **Qualität & Wartbarkeit**: Code schreiben, der langfristig trägt.
-- 🧠 **Kontinuierliches Wachstum**: Ausbau von Expertise in Python und Datenanalyse.
+- 🧠 **Kontinuierliches Wachstum**: Entwicklung von Datentools in Python und Flask für Analyse und Automatisierung.
 
 ---
 
@@ -90,9 +90,8 @@ Berufliche Projekte liegen in privaten Repositories, um Qualität und Fokus zu w
 
   | Zeitraum | Rolle | Unternehmen | Wichtige Verantwortlichkeiten & Erfolge |
   | :--- | :--- | :--- | :--- |
-  | 06/2023 – heute | **Freelance-Webentwicklerin** | Selbstständig | Entwicklung und Wartung von Websites;<br> Aufbau persönlicher Projekte zur Erweiterung der Skills |
+  | 06/2023 – heute | **Unabhängiger Entwicklerin / Python- und Datenprojekte** | Eigenständige Projekte und Forschungspraxis | Entwicklung und Wartung von Websites;<br> Aufbau persönlicher Projekte zur Erweiterung der Skills |
   | 03/2022 – 05/2023 | **Studentin im Bereich Webentwicklung** | Eigene Initiative | Intensives Training in Full-Stack-Webentwicklung;<br> praktische Arbeit mit diversen Technologien und Frameworks |
-  | 03/2022 – 05/2023 | **Freelance-Webentwicklerin** | Verschiedene Kunden | Webentwicklungsdienstleistungen für kleine Unternehmen;<br> maßgeschneiderte Lösungen nach Kundenbedarf |
   | 11/2019 – 02/2022 | **Freelance-Webentwicklerin** | MISA International School of Arts | Entwicklung und Wartung von Weblösungen;<br> Teamzusammenarbeit für den Online-Auftritt |
   | 09/2018 – 10/2019 | **Softwareentwicklerin** | MAS Management & Software GmbH | Entwicklung, Design und Implementierung;<br> Architektur- und Datenmodelle für Kunden |
   | 08/2016 – 04/2018 | **Frontend-Entwicklerin** | CHECK24 Vergleichsportal GmbH | Umsetzung von responsive Design;<br> Erstellung von E-Mail-Templates und Funktionstests |
