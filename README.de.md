@@ -1,4 +1,4 @@
-# 👩‍💻 Anna Burova <br> Full-Stack Webentwicklerin aus Russland 🇷🇺
+# 👩‍💻 Anna Burova <br> Full-Stack Webentwicklerin
 
 *Fokus auf Python, SQL, APIs, Flask, Design und datengetriebene Lösungen.*
 
@@ -6,8 +6,6 @@
 | 💂 | 🪆 | 🥨 |---|
 |---|---|---|---|
 | [English](README.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | <img src="https://visitor-badge.laobi.icu/badge?page_id=AnnaBurova.AnnaBurova&" /> |
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=annaburova&show_icons=true&locale=en&layout=compact" />
 
 ---
 
