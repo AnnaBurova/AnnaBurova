@@ -1,10 +1,10 @@
-# Full-Stack Web Engineer *with 10+ years*
+# Full-Stack Web Engineer | *with 10+ years*
 
 ## Anna Burova
 
-**Open for remote work worldwide.**
+**Open to remote worldwide (EN/DE/RU)**
 
-*Focused on Python, SQL, APIs, Flask, design, and data-driven solutions.*
+*Python, Flask, SQL, APIs*
 
 🌐 Languages:
 - [English](README.md) (C1)
@@ -13,69 +13,56 @@
 
 ---
 
-### About Me
+### 👋 About Me
 
-Full-Stack Web Engineer with 10+ years across frontend and backend, delivering web products end‑to‑end: from UI to APIs and databases. Strong in Python (Scripts/Flask/Jinja2), PHP (Scripts/OOP/WordPress), and SQL (including complex queries and indexing), with solid Linux server troubleshooting (SSH/cron/logs/SSL/backups). Use AI as a productivity tool while maintaining code quality through careful review, tests, linters, and edge‑case analysis. Skilled in building clean, user-friendly interfaces with modern HTML/CSS/JavaScript, with a strong eye for layout, styling, and maintainable UI components.
+Full-Stack Web Engineer delivering end-to-end web products: UI, APIs, databases. Strong in Python (Flask/Jinja2/scripts), SQL (complex queries/indexing), PHP/WordPress, Linux troubleshooting. Build clean UIs with HTML/CSS/JS; use AI for productivity with tests/linters.
 
----
+### 🛠️ Core Skills
 
-### Core Skills
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript (ES6+), Angular, React
+- **Backend**: Python, Flask, Jinja2, PHP (OOP), WordPress
+- **Databases**: SQL, SQLite, MySQL, MS SQL (advanced queries, indexing)
+- **Tools**: Git, CI/CD, Linux/CLI, Cron, VSCode, Cursor
+- **Quality**: Testing, Linters, Code Review
 
-- **Frontend**: HTML5, CSS3 (SASS/LESS), Bootstrap, JavaScript (ES6+), Angular, React
-- **Backend**: Python (Flask, Jinja2), PHP (OOP), WordPress
-- **Databases**: SQL (SQLite, MySQL, MS SQL) (advanced queries, indexing)
-- **Tools**: Git, CI/CD, Linux/CLI, Cron
-- **Quality**: Testing, linters, code review; AI-assisted development with manual verification
-- **IDEs & editors**: VS Code, Cursor, Sublime Text 3
+### 🔥 Featured Projects
 
----
+- **NewtUtils** (*public*) - Typed Python utilities for console/files/SQL/network (Py 3.10-3.13).  [GitHub](https://github.com/AnnaBurova/dev-newtutils)
+- **MediaWiki Parser** (*public*) - Parses MediaWiki to structured data for processing/search.  [GitHub](https://github.com/AnnaBurova/dev-parser-mediawiki)
+- **GW2 API Parser** (*WIP*): Python CLI for Guild Wars 2 API with SQLite/JSON/CSV.  (*technical overview available on request*)
+- **GW2 Web App** (WIP): Flask/Jinja2 + SQLite; dynamic pages; admin forms; performance-minded UI loading.  (*technical overview available on request*)
 
-## Current focus
+**Pinned Repos**: Check my pinned projects for live code!
 
-- Building data‑driven web apps in Python/Flask with normalized SQL storage and performance‑minded UI loading.
-- Writing reusable, typed, tested Python tooling for scripting, data processing, and API work.
-- Open to fully remote roles (EN/DE/RU).
-
-### Featured Projects
-
-- **NewtUtils** (*public*) - typed and tested Python utilities (console/files/SQL/network/etc), Python 3.10-3.13.  [GitHub](https://github.com/AnnaBurova/dev-newtutils)
-- **MediaWiki Parser** (*public*) - parses MediaWiki content into structured data for downstream processing or search.  [GitHub](https://github.com/AnnaBurova/dev-parser-mediawiki)
-- **GW2 API parser** (*in progress*) - Python (requests) ingestion tool that pulls Guild Wars 2 API entities (items, achievements, characters, etc.) and normalizes them into SQLite, with exports to JSON/CSV; runs as a CLI/script. (technical overview available on request).
-- **GW2 Web App** (*in progress*) - Flask/Jinja2 + SQLite; API ingestion; dynamic pages; admin forms; performance-minded UI loading. (technical overview available on request).
-
-### Professional Experience
-
-#### 🔍 Full list under spoiler 🔍 (expand)
+## 💼 Professional Experience
 
 <details>
-  <summary>🧐 Open full experience table 🧐</summary>
+  <summary>🔍 Click to expand full history 🔍</summary>
 
   <br/>
 
-  | Period | Role | Company | Key Responsibilities & Achievements |
+  | Period | Role | Company | Key Tech & Tasks |
   | :--- | :--- | :--- | :--- |
-  | 06/2023 – present | **Independent Developer / Python & Data Projects** | Independent projects and research practice | Python Scripts + Flask/Jinja2 + SQLite;<br> API ingestion;<br> dynamic pages;<br> admin forms;<br> performance-minded loading |
-  | 03/2022 – 05/2023 | **Web Development** | Personal initiative | Intensive self training in Full-Stack Web Engineer;<br> Hands-on work with various technologies and frameworks |
-  | 11/2019 – 02/2022 | **Freelance Web Developer** | MISA International School of Arts | Developed and maintained web solutions;<br> WordPress + WooCommerce;<br> plugin customization (PHP/JS/CSS);<br> hosting troubleshooting (SSL/email/backups/logs/payments) |
-  | 09/2018 – 10/2019 | **Software Developer** | MAS Management & Software GmbH | MS SQL composable queries + indexing;<br> embedded Angular UI (iframe) for industrial interface/graphs |
-  | 08/2016 – 04/2018 | **Frontend Developer** | CHECK24 Vergleichsportal GmbH | HTML email templates (transactional + marketing);<br> insurance UI;<br> PHP/JS/Bootstrap/CSS;<br> Java/React exposure (bugfixes + features) |
-  | 03/2015 – 07/2016 | **Frontend & Backend Developer** | DePauli AG | Frontend templates;<br> PHP scripts for static page generation |
-  | 07/2013 – 02/2015 | **Frontend Developer** | Windeln.de GmbH | Selenium testing;<br> Page creation and styling;<br> Customer support |
-  | 09/2012 – 09/2014 | **Web Development Student** | SAE Institute | Diploma in Web-Development;<br> Fundamentals of Frontend and Backend technologies |
-  | 09/2008 – 08/2012 | **IT System Electronics Technician** | Siemens AG | System administration: workstation support and infrastructure;<br> Assembly, commissioning, and programming of alarm systems;<br> On-site service |
+  | 03/2022 - present | **Independent Developer** | Freelance | Python/Flask/SQLite;<br> API ingestion;<br> dynamic web apps |
+  | 11/2019 - 02/2022 | **Web Developer** | MISA International School of Arts | WordPress/WooCommerce;<br> PHP/JS/CSS;<br> hosting/SSL;<br> E-Mails Design |
+  | 09/2018 - 10/2019 | **Software Developer** | MAS Management & Software GmbH | MS SQL queries/indexing;<br> Angular UI embeds |
+  | 08/2016 - 04/2018 | **Frontend Developer** | CHECK24 Vergleichsportal GmbH | PHP/JS/Bootstrap;<br> React features;<br> E-Mails Design;<br> Bug fixing/Design |
+  | 03/2015 - 07/2016 | **Full Stack Developer** | DePauli AG | PHP scripts;<br> Frontend templates/Design |
+  | 07/2013 - 02/2015 | **Frontend Developer** | Windeln.de GmbH | Selenium;<br> Page styling;<br> Customer support |
+  | 09/2012 - 09/2014 | **Web Development Student** | SAE Institute | Diploma in Web-Development;<br> Fundamentals of Frontend and Backend technologies |
+  | 09/2008 - 08/2012 | **IT System Techniker** | Siemens AG | SysAdmin;<br> Hardware/Programming |
 </details>
 
 ---
 
-### 📞 Let’s Connect
-
-I’m actively seeking opportunities in **fully remote**, open to full-time roles and project-based freelance work.
+## 📞 Let's Connect
+Open to **remote full-time** or **freelance** in Python / Full-Stack / Data Science roles.
 
 - 📧 **Email**: [burova.anna+work@gmail.com](mailto:burova.anna+work@gmail.com)
 - 🕊️ **Telegram**: [@BurAnna89](https://t.me/BurAnna89)
 
-I prefer to start via email or Telegram Chat to ensure clear alignment before a call.
+You can message me via Email or Telegram first so we can coordinate for a call.
 
-Thank you for visiting my profile!
+Let's build great things! 🚀
 
-**Stack**: HTML5, CSS3, JavaScript (ES6+), Python, Flask, Jinja2, SQLite, PHP, WordPress, MySQL, Angular, React, Git, REST API, JSON, Data Analysis
+**Stack**: HTML5, CSS3, JS, Python, Flask, Jinja2, SQLite, PHP, WordPress, MySQL, Angular, React, Git, REST API, JSON, Data Analysis
