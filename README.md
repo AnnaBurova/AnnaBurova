@@ -21,16 +21,16 @@ Full-Stack Web Engineer delivering end-to-end web products: UI, APIs, databases.
 
 - **Frontend**: HTML5, CSS3, Bootstrap, JavaScript (ES6+), Angular, React
 - **Backend**: Python, Flask, Jinja2, PHP (OOP), WordPress
-- **Databases**: SQL, SQLite, MySQL, MS SQL (advanced queries, indexing)
+- **Databases**: SQL, SQLite, MySQL, MS SQL
 - **Tools**: Git, CI/CD, Linux/CLI, Cron, VSCode, Cursor
 - **Quality**: Testing, Linters, Code Review
 
 ### 🔥 Featured Projects
 
-- **NewtUtils** (*public*) - Typed Python utilities for console/files/SQL/network (Py 3.10-3.13).  [GitHub](https://github.com/AnnaBurova/dev-newtutils)
+- **NewtUtils** (*public*) - Typed Python utilities for console/files/SQL/network (Py 3.10-3.14).  [GitHub](https://github.com/AnnaBurova/dev-newtutils)
 - **MediaWiki Parser** (*public*) - Parses MediaWiki to structured data for processing/search.  [GitHub](https://github.com/AnnaBurova/dev-parser-mediawiki)
 - **GW2 API Parser** (*WIP*): Python CLI for Guild Wars 2 API with SQLite/JSON/CSV.  (*technical overview available on request*)
-- **GW2 Web App** (WIP): Flask/Jinja2 + SQLite; dynamic pages; admin forms; performance-minded UI loading.  (*technical overview available on request*)
+- **GW2 Web App** (*WIP*): Flask/Jinja2 + SQLite; dynamic pages; admin forms; performance-minded UI loading.  (*technical overview available on request*)
 
 **Pinned Repos**: Check my pinned projects for live code!
 
@@ -56,6 +56,7 @@ Full-Stack Web Engineer delivering end-to-end web products: UI, APIs, databases.
 ---
 
 ## 📞 Let's Connect
+
 Open to **remote full-time** or **freelance** in Python / Full-Stack / Data Science roles.
 
 - 📧 **Email**: [burova.anna+work@gmail.com](mailto:burova.anna+work@gmail.com)
@@ -63,6 +64,6 @@ Open to **remote full-time** or **freelance** in Python / Full-Stack / Data Scie
 
 You can message me via Email or Telegram first so we can coordinate for a call.
 
-Let's build great things! 🚀
+Let's build great things together! 🚀
 
 **Stack**: HTML5, CSS3, JS, Python, Flask, Jinja2, SQLite, PHP, WordPress, MySQL, Angular, React, Git, REST API, JSON, Data Analysis
