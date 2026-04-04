@@ -43,7 +43,7 @@ Full-Stack Web Engineer, разработка и предоставление в
 
   | Период | Роль | Компания | Ключевые технологии и задачи |
   | :--- | :--- | :--- | :--- |
-  | 03/2022 - настоящее время | **Независимый разработчик** | Freelance | Python/Flask/SQLite;<br> Интеграция API;<br> Динамические веб-приложения |
+  | 03/2022 - сегодня | **Независимый разработчик** | Freelance | Python/Flask/SQLite;<br> Интеграция API;<br> Динамические веб-приложения |
   | 11/2019 - 02/2022 | **Веб-разработчик** | MISA International School of Arts | WordPress/WooCommerce;<br> PHP/JS/CSS;<br> Хостинг/SSL;<br> Дизайн email |
   | 09/2018 - 10/2019 | **Разработчик ПО** | MAS Management & Software GmbH | Запросы/индексация MS SQL;<br> Встраивания UI Angular |
   | 08/2016 - 04/2018 | **Frontend-разработчик** | CHECK24 Vergleichsportal GmbH | PHP/JS/Bootstrap;<br> Функции React;<br> Дизайн email;<br> Исправление багов/дизайн |
