@@ -43,10 +43,10 @@ Full-Stack Web Engineer, der End-to-End-Webprodukte liefert: UI, APIs, Datenbank
 
   | Periode | Rolle | Firma | Schlüssel-Tech & Aufgaben |
   | :--- | :--- | :--- | :--- |
-  | 03/2022 - heute | **Independent Developer** | Freelance | Python/Flask/SQLite;<br> API-Ingestion;<br> dynamische Web-Apps |
-  | 11/2019 - 02/2022 | **Web Developer** | MISA International School of Arts | WordPress/WooCommerce;<br> PHP/JS/CSS;<br> Hosting/SSL;<br> E-Mail-Design |
-  | 09/2018 - 10/2019 | **Software Developer** | MAS Management & Software GmbH | MS SQL Queries/Indexierung;<br> Angular UI Embeds |
-  | 08/2016 - 04/2018 | **Frontend Developer** | CHECK24 Vergleichsportal GmbH | PHP/JS/Bootstrap;<br> React-Features;<br> E-Mail-Design;<br> Bugfixing/Design |
+  | 03/2023 - heute | **Independent Developer** | Freelance | Python/Flask/SQLite;<br> API-Ingestion;<br> dynamische Web-Apps |
+  | 11/2020 - 02/2023 | **Web Developer** | MISA International School of Arts | WordPress/WooCommerce;<br> PHP/JS/CSS;<br> Hosting/SSL;<br> E-Mail-Design |
+  | 09/2019 - 10/2020 | **Software Developer** | MAS Management & Software GmbH | MS SQL Queries/Indexierung;<br> Angular UI Embeds |
+  | 08/2016 - 04/2019 | **Frontend Developer** | CHECK24 Vergleichsportal GmbH | PHP/JS/Bootstrap;<br> React-Features;<br> E-Mail-Design;<br> Bugfixing/Design |
   | 03/2015 - 07/2016 | **Full Stack Developer** | DePauli AG | PHP-Skripte;<br> Frontend-Templates/Design |
   | 07/2013 - 02/2015 | **Frontend Developer** | Windeln.de GmbH | Selenium;<br> Seiten-Styling;<br> Kundensupport |
   | 09/2012 - 09/2014 | **Web Development Student** | SAE Institute | Diplom in Web-Development;<br> Grundlagen Frontend und Backend Technologien |

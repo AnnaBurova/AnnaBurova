@@ -43,10 +43,10 @@ Full-Stack Web Engineer, разработка и предоставление в
 
   | Период | Роль | Компания | Ключевые технологии и задачи |
   | :--- | :--- | :--- | :--- |
-  | 03/2022 - сегодня | **Независимый разработчик** | Freelance | Python/Flask/SQLite;<br> Интеграция API;<br> Динамические веб-приложения |
-  | 11/2019 - 02/2022 | **Веб-разработчик** | MISA International School of Arts | WordPress/WooCommerce;<br> PHP/JS/CSS;<br> Хостинг/SSL;<br> Дизайн email |
-  | 09/2018 - 10/2019 | **Разработчик ПО** | MAS Management & Software GmbH | Запросы/индексация MS SQL;<br> Встраивания UI Angular |
-  | 08/2016 - 04/2018 | **Frontend-разработчик** | CHECK24 Vergleichsportal GmbH | PHP/JS/Bootstrap;<br> Функции React;<br> Дизайн email;<br> Исправление багов/дизайн |
+  | 03/2023 - сегодня | **Независимый разработчик** | Freelance | Python/Flask/SQLite;<br> Интеграция API;<br> Динамические веб-приложения |
+  | 11/2020 - 02/2023 | **Веб-разработчик** | MISA International School of Arts | WordPress/WooCommerce;<br> PHP/JS/CSS;<br> Хостинг/SSL;<br> Дизайн email |
+  | 09/2019 - 10/2020 | **Разработчик ПО** | MAS Management & Software GmbH | Запросы/индексация MS SQL;<br> Встраивания UI Angular |
+  | 08/2016 - 04/2019 | **Frontend-разработчик** | CHECK24 Vergleichsportal GmbH | PHP/JS/Bootstrap;<br> Функции React;<br> Дизайн email;<br> Исправление багов/дизайн |
   | 03/2015 - 07/2016 | **Full Stack Developer** | DePauli AG | PHP-скрипты;<br> Frontend-шаблоны/дизайн |
   | 07/2013 - 02/2015 | **Frontend-разработчик** | Windeln.de GmbH | Selenium;<br> Стилизация страниц;<br> Поддержка клиентов |
   | 09/2012 - 09/2014 | **Студент веб-разработки** | SAE Institute | Диплом по веб-разработке;<br> Основы frontend и backend технологий |
